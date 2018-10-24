@@ -1,0 +1,18 @@
+git add 파일 이름 - 파일을 Staging Area에 올림. 임시
+git commit -> Local Repo에 올림. 공식
+i로 메시지 입력 후 esc -> :wq // 로그 제목?을 입력하는거임
+
+git log - 깃 로그를 봄
+
+git status
+
+vim 파일 이름
+	i - 삽입
+	esc - 삽입 종료
+	: - 커맨드
+	w - 저장
+	q - vim 종료
+	wq - 저장 후 vim 종료	
+
+git은 해시코드를 기준으로 저장됨.
+내용이 같으면 저장 안됌.
